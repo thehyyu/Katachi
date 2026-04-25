@@ -5,8 +5,6 @@
   "badge_text": "贏",
   "meta_tag": "精實研習",
   "location_tag": "廣島行",
-  "date_start": "2026-06-14",
-  "date_end": "2026-06-21",
   "date_start_display": "2026/6/14(日)",
   "date_end_display": "6/21(日)",
   "highlights": [
@@ -27,9 +25,20 @@
       "detail": "最新福祉 & 看護趨勢與實務技術探討與應用。"
     }
   ],
-  "photos": [],
-  "sidebar_image": "",
-  "sidebar_caption": "",
+  "photos": [
+    { "src": "photos/01.jpg", "weight": 2 },
+    { "src": "photos/02.jpg", "weight": 1 },
+    { "src": "photos/03.jpg", "weight": 1 },
+    { "src": "photos/04.jpg", "weight": 1 },
+    { "src": "photos/05.jpg", "weight": 1 },
+    { "src": "photos/06.jpg", "weight": 1 },
+    { "src": "photos/07.jpg", "weight": 1 },
+    { "src": "photos/08.jpg", "weight": 1 }
+  ],
+  "sidebar_image": "photos/sidebar.jpg",
+  "sidebar_caption": "嗜下調整食 レシピ 123",
+  "flight_outbound": "2026/6/14(日) ★ 07:15–10:35　桃航 CI12　桃園 → 廣島",
+  "flight_return": "6/21(日) 11:13–13:15　桃航 CI13　廣島 → 桃園",
   "schedule": [
     {
       "date": "6/15(一)",
@@ -38,8 +47,13 @@
     },
     {
       "date": "6/16(二)",
+      "location": "八千代 Merry House 參訪",
+      "activities": "①長照機構 ②護老院"
+    },
+    {
+      "date": "6/17(三)",
       "location": "廣島市役所公立委托廢管 合護付きの老人ホーム【Sunny Court】",
-      "activities": "①長照機構②護老院 參訪"
+      "activities": "參訪"
     },
     {
       "date": "6/17(三)",
@@ -68,9 +82,6 @@
   "price_group": 63000,
   "price_group_label": "二位團報優惠價",
   "price_deposit": 10000,
-  "organizer": "哩哩哩樂遊學股份有限公司",
-  "contact_name": "林伯彥",
-  "contact_phone": "02-2252-3030 #600",
-  "primary_color": "#1B3F78",
-  "accent_color": "#CC2020"
+  "organizer_jp": "廣島長照機構經管幹部會",
+  "registration_url": "https://example.com/register"
 }
