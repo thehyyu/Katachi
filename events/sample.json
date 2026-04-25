@@ -1,0 +1,76 @@
+{
+  "template_id": "pattern_01",
+  "subtitle": "十餘年台日養老產業強強俱樂部交流結晶，轉換成精實研習營",
+  "title": "日本照護技術研習",
+  "badge_text": "贏",
+  "meta_tag": "精實研習",
+  "location_tag": "廣島行",
+  "date_start": "2026-06-14",
+  "date_end": "2026-06-21",
+  "date_start_display": "2026/6/14(日)",
+  "date_end_display": "6/21(日)",
+  "highlights": [
+    {
+      "label": "探索優質養老設施",
+      "detail": "廣島 Top 5 老人院・深度交流 & 觀摩。"
+    },
+    {
+      "label": "大師講授照護技術",
+      "detail": "栃木淳教授（明暸看護養機）、三川浩樹教授口腔保健。"
+    },
+    {
+      "label": "精實復健理論實務",
+      "detail": "廣島教學醫院與公立復健醫院之系統化復健運動療程。"
+    },
+    {
+      "label": "大學・醫院深度部合作",
+      "detail": "最新福祉 & 看護趨勢與實務技術探討與應用。"
+    }
+  ],
+  "photos": [],
+  "sidebar_image": "",
+  "sidebar_caption": "",
+  "schedule": [
+    {
+      "date": "6/15(一)",
+      "location": "西風新都 Merry House / Merry Hospital / Merry Days",
+      "activities": "①參加 ①長照機構②復健醫院 ①照護課程②高齡退縮的飲食管理 ③病院②管理局"
+    },
+    {
+      "date": "6/16(二)",
+      "location": "廣島市役所公立委托廢管 合護付きの老人ホーム【Sunny Court】",
+      "activities": "①長照機構②護老院 參訪"
+    },
+    {
+      "date": "6/17(三)",
+      "location": "周南公立大学 人間健康学部 研修【福祉学科 & 看護学科課程】",
+      "activities": "研修・復健・身心照護等之綜合復健機構 參訪"
+    },
+    {
+      "date": "6/18(四)",
+      "location": "宮木脳神経外科病院（中風術後・復健到返家）參訪",
+      "activities": "廣島大学醫学部 參訪 + 研修"
+    },
+    {
+      "date": "6/19(五)",
+      "location": "①【L8020 之發現現況】二川浩樹教授講座",
+      "activities": "②認知症生社会学医学講座"
+    },
+    {
+      "date": "6/20(六)",
+      "location": "廣島自由行",
+      "activities": "建議自安排日本三等等廣島光之旅（每周五班，週六無返台班機）"
+    }
+  ],
+  "description": "研習計劃召集學員15名，以具照護相關背景的學員為優先，現場主辦識組參加，聚集照護義一起在日本廣島場域取經，精益求精相互砥礪，帶回照護優質DNA，累積磨因提振自家機構實力，有效因應照護關人力不足、品質維持、強化效率乃至增加收益，衍生照護事業營運正向循環的善業。",
+  "pricing_note": "研習課程(翻譯)+移動+住宿半自理",
+  "price_regular": 65000,
+  "price_group": 63000,
+  "price_group_label": "二位團報優惠價",
+  "price_deposit": 10000,
+  "organizer": "哩哩哩樂遊學股份有限公司",
+  "contact_name": "林伯彥",
+  "contact_phone": "02-2252-3030 #600",
+  "primary_color": "#1B3F78",
+  "accent_color": "#CC2020"
+}
